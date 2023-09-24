@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: In Game Group
+  m_EditorClassIdentifier: 
+  m_GroupName: In Game Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: fc118f59c6e51964594874d86f2644b4
+  m_SerializeEntries:
+  - m_GUID: da759a48aaed73946a28cf5627f304c0
+    m_Address: Assets/BundleAssets/Config
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6b6f3ca29f77e874ebf98d99bc6416ff
+    m_Address: Assets/BundleAssets/Movies
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9432d0286b317cc4e91d8027e09b23dc
+    m_Address: Assets/BundleAssets/Sprites
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6b48a197abc94be42b487d7d3026556e
+    m_Address: Assets/BundleAssets/UI
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: dc1a5d5297ef27d46b5aae0261db53a9, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 91a9f410800f8134c9152bef752cd0fc, type: 2}
+    - {fileID: 11400000, guid: dfb86082bf6afa04f9ebc2228769a016, type: 2}
